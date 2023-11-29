@@ -6,9 +6,9 @@ If the user is logged in he has access to place orders from the System which ord
 Further more all user accounts and products are stored into out database and can be modified by the administrator.
 In order to run the code you need to install the files.
 Then in Virtual Studio Code you have to run the following commands:
-python -m venv venv
-venv/Scripts/activate
-pip install django
-pip install pillow
+python -m venv venv,
+venv/Scripts/activate,
+pip install django,
+pip install pillow,
 
 and then we user on VSC's terminal the python manage.py runserver in order to run the webside.
