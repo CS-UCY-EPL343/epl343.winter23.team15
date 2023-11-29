@@ -1,5 +1,5 @@
 # epl343.winter23.team15
-Project for Runinfo Computers and Technologies, webside create as a marketplace for the customer.
+Project for Runinfo Computers and Technologies, webside created as a marketplace for the customer.
 Program is writen in Python Django.
 User is able to see information about the company and check out companies products and deals.
 If the user is logged in he has access to place orders from the System which orders are stored to our database.
@@ -11,4 +11,4 @@ venv/Scripts/activate,
 pip install django,
 pip install pillow,
 
-and then we user on VSC's terminal the python manage.py runserver in order to run the webside.
+and then we use on VSC's terminal the python manage.py runserver in order to run the webside.
